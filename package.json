@@ -47,7 +47,7 @@
     "multer": "~1.2",
     "pdfkit": "~0.8",
     "sanitize-html": "1.4.2",
-    "sequelize": "~1.7",
+    "sequelize": "~3.19.0",
     "sequelize-restful": "~0.4",
     "serve-favicon": "~2.3",
     "serve-index": "~1.8",
