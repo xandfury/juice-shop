@@ -46,7 +46,7 @@
     "morgan": "~1.7",
     "multer": "~1.2",
     "pdfkit": "~0.8",
-    "sanitize-html": "1.4.2",
+    "sanitize-html": "1.27.4",
     "sequelize": "~1.7",
     "sequelize-restful": "~0.4",
     "serve-favicon": "~2.3",
